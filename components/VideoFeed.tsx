@@ -3,8 +3,6 @@ import {
   FlatList,
   View,
   Dimensions,
-  NativeScrollEvent,
-  NativeSyntheticEvent,
 } from 'react-native';
 import { VideoCard } from './VideoCard';
 import { Video, sampleVideos } from '../data/videos';
